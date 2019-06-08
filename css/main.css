@@ -1,2 +1,8 @@
     .nav-menu {text-align: right}
     .nav-spacing {margin: 0 0 0 10px;}
+    .image-link {text-decoration: none;}
+    .div-style {width: 500px; margin: 50px auto; padding: 30px;
+    background-color: #fafafa;}
+    .blq-style {font-style: italic; font-size: 20px; background-color: #735527;padding: 10px}
+    .head-style {text-align: center}
+    .header-style {margin: 0 auto;}
